@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "msp430x14x.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "disabled", //需要添加的
+    "C_Cpp.intelliSenseEngine": "Tag Parser",  //  需要添加的
+}
